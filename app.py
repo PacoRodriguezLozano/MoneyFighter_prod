@@ -6,6 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import joblib 
 import matplotlib.cm as cm
+import seaborn as sns
 
 #Funcion para resaltar valor mas alto
 def resaltar_maximos(row):
