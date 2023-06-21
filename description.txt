@@ -1,0 +1,15 @@
+MoneyFighter is a web application that utilizes an AI model to predict the outcome of any MMA fight that you are interested in. The app is designed to provide users with accurate predictions based on historical data and statistical analysis.
+
+### How it Works
+
+MoneyFighter uses a machine learning algorithm to analyze various factors that can influence the outcome of a fight. These factors include the fighters' past performances, their styles and their physical attributes
+
+The app then uses this information to generate a prediction for each fighter in the upcoming fight. These predictions are based on a number of different factors, including the fighter's past performance, their current form, and their overall skill level.
+
+### Benefits
+
+MoneyFighter provides users with a number of benefits, including:
+
+* Accurate predictions based on historical data and statistical analysis
+* The ability to make informed decisions when betting on fights
+* Real-time updates on the latest fights and predictions
