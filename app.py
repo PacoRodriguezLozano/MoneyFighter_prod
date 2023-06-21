@@ -3,11 +3,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
-from PIL import Image
 import joblib 
-import base64
 import matplotlib.cm as cm
 
 #Funcion para resaltar valor mas alto
